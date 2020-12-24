@@ -8,24 +8,24 @@ exit
 shell are complete. Print out the total user and system time for all
 processes run by the shell.
 
-jobs 
+jobs
 >Display the status of all running processes spawned by shell379. See
 the print format below in the example.
 
-kill <int> 
+kill (int)
 >Kill process <int>.
  
 resume 
 ><int> Resume the execution of process <int>. This undoes a suspend.
   
-sleep <int>
+sleep (int)
 >Sleep for <int> seconds.
   
-suspend <int>
+suspend (int)
 >Suspend execution of process <int>. A resume will reawaken it.
   
   
-wait <pid>
+wait (pid)
 >Wait until process <int> has completed execution.
 
 If none of the above commands is input, then the resulting input string is to be executed
