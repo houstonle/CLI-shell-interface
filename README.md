@@ -29,8 +29,7 @@ wait (pid)
 >Wait until process <int> has completed execution.
 
 If none of the above commands is input, then the resulting input string is to be executed
-<cmd> <arg>* Spawn a process to execute command <cmd> with 0 or more arguments
-<arg>. <cmd> and <arg> are each one or more sequences of nonblank characters.
+> <cmd> <arg>
 
 Special Arguments:
 
