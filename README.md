@@ -29,7 +29,7 @@ wait (pid)
 >Wait until process <int> has completed execution.
 
 If none of the above commands is input, then the resulting input string is to be executed
-> <cmd> <arg>
+> cmd arg
 
 Special Arguments:
 
