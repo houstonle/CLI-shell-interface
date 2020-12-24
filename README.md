@@ -34,5 +34,5 @@ Special Arguments:
 If used it is the last argument and indicates the command should be executed in the background
 <fname
 File name will be program input
->fname
+>>fname
 File name will be program output
