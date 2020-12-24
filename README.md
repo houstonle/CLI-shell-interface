@@ -28,7 +28,7 @@ suspend (int)
 wait (pid)
 >Wait until process <int> has completed execution.
 
-If none of the above commands is input, then the resulting input string is to be executed
+If none of the above commands is input, then the resulting input string is to be executed (where arguments can be 0 or more)
 > cmd arg
 
 Special Arguments:
