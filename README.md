@@ -4,7 +4,7 @@ Basic shell that accepts a set of simple commands
 Commands: 
 
 exit 
->End the execution of shell379. Wait until all processes initiated by the
+>End the execution. Wait until all processes initiated by the
 shell are complete. Print out the total user and system time for all
 processes run by the shell.
 
