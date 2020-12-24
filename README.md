@@ -30,9 +30,15 @@ If none of the above commands is input, then the resulting input string is to be
 <arg>. <cmd> and <arg> are each one or more sequences of nonblank characters.
 
 Special Arguments:
+
+
 &
 If used it is the last argument and indicates the command should be executed in the background
+
+
 "<fname"
 File name will be program input
+
+
 ">fname"
 File name will be program output
